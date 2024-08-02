@@ -1,0 +1,2 @@
+2024-08-02 10:42:46.504 [http-nio-8080-exec-3] INFO  com.db7.AddServlet - Addition result:10
+2024-08-02 10:42:46.504 [http-nio-8080-exec-2] INFO  com.db7.AddServlet - Addition result:10
